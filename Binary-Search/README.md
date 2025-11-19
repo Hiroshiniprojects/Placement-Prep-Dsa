@@ -1,0 +1,1 @@
+This folder contains binary search based problems and solutions 
