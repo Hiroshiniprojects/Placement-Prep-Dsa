@@ -19,6 +19,17 @@
 //X ≤ 214748364.7 So the maximum safe number before multiplication by 10 is:214748364
 //That value is exactly:Integer.MAX_VALUE / 10
 
+
+
+//Intitution:
+//1.Initialize the reversed number (rev) to 0.
+//2.Loop through each digit of the input number.
+//For each digit, check if adding it to the reversed number will cause an overflow.
+//3.If an overflow is detected, return 0.
+//Otherwise, update the reversed number by multiplying it by 10 and adding the current digit.
+//4.Continue this process until all digits are processed.
+//5.Return the reversed number with the appropriate sign.
+
 class Solution {
     public int reverse(int x) {
         int temp=x;
