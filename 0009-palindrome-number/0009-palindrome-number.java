@@ -1,34 +1,11 @@
 class Solution {
-    public int reversing(int x){
-        int rev=0;
-        int reverse=0;
-        int unitdigit=x%10;
-        while(x!=0){
-            if(x>0){
-                int rem=x%10;
-                if(unitdigit!=0){
-                rev=rev*10+rem;
-                x=x/10;
-                }
-                else{
-                    return 0;
-                }
-            }
-            else{
-                return 0;
-               
-            }
-        }
-        return rev;
-    }
-
+   
     public boolean isPalindrome(int x) {
-        int reversalvalue=reversing(x);
-        if(reversalvalue==x){
-            return true;
-        }
-        else{
-            return false;
-        }
+    String s= String.valueOf(x);//str conversion
+    int n=s.length();//checking the length so that if len missmatch we can not compare the 2 strings for palindrome
+    for(int i=0;i<n/2;i++){
+        if(s.charAt(i)!=s.charAt(n-i-1))return false;
+    }
+   return true;
     }
 }
