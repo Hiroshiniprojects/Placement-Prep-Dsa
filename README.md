@@ -7,4 +7,9 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0009-palindrome-number) |
+| [1492-the-kth-factor-of-n](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1492-the-kth-factor-of-n) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
