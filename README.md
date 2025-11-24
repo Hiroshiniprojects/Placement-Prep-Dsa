@@ -12,4 +12,12 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1492-the-kth-factor-of-n) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
