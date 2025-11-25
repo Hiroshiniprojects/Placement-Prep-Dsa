@@ -7,6 +7,7 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0009-palindrome-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1492-the-kth-factor-of-n](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1492-the-kth-factor-of-n) |
 ## Number Theory
 |  |
@@ -30,6 +31,7 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
