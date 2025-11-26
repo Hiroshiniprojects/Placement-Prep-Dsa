@@ -21,6 +21,7 @@ Data structures and Algorithms +solved problems
 | [0027-remove-element](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
@@ -54,4 +55,8 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
