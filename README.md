@@ -22,6 +22,7 @@ Data structures and Algorithms +solved problems
 | [0035-search-insert-position](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
@@ -35,6 +36,7 @@ Data structures and Algorithms +solved problems
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Binary Search
@@ -46,6 +48,7 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
