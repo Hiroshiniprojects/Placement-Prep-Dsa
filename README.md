@@ -28,6 +28,7 @@ Data structures and Algorithms +solved problems
 | [0283-move-zeroes](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0561-array-partition](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Data structures and Algorithms +solved problems
 | [0169-majority-element](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0561-array-partition](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0561-array-partition) |
 ## String
 |  |
 | ------- |
@@ -80,4 +82,12 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
