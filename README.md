@@ -30,6 +30,7 @@ Data structures and Algorithms +solved problems
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0575-distribute-candies) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Data structures and Algorithms +solved problems
 | [0217-contains-duplicate](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0575-distribute-candies) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Binary Search
 |  |
