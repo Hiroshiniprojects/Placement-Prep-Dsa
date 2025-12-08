@@ -23,6 +23,7 @@ Data structures and Algorithms +solved problems
 | [0075-sort-colors](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@ Data structures and Algorithms +solved problems
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -102,4 +104,8 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0506-relative-ranks) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
