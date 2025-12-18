@@ -1,0 +1,116 @@
+//pb:560
+//leetcode:medium
+//prefix sum appraoch with counting the frequency of the elements and returning the number or sub arrays:
+//Given an array of integers nums and an integer k, return the total number of subarrays whose sum equals to k.
+//see here we are using a hashmap where it stores-count and the value of the prefixsum so that for getting the actual count of the prefix sum we are using the map with frequencies of the prefixsum and the count for that
+//the tot count is the count for k=3 the number of sub arrays
+//A subarray is a contiguous non-empty sequence of elements within an array.
+Example 1:
+
+Input: nums = [1,1,1], k = 2
+Output: 2
+Example 2:
+
+Input: nums = [1,2,3], k = 3
+Output: 2
+//example:[1,2,3,-2,5] and k=3
+//core logic with example:
+Index 1 Recap
+
+We found one subarray ending at index 1 that sums to 3.
+
+We updated count to 1.
+
+We added prefixSum = 3 to the map, so now map = {0:1, 1:1, 3:1}.
+
+Index 2, Value 3
+
+Update the prefixSum:
+Previous prefixSum = 3. Add the current value (3), so prefixSum = 3 + 3 = 6.
+
+Calculate the diff:
+diff = prefixSum - k = 6 - 3 = 3.
+
+Check the map for diff:
+We look for map.get(3). Right now the map is {0:1, 1:1, 3:1}, so map.get(3) = 1.
+
+This means we’ve seen a prefix sum of 3 once before. That tells us there is another subarray ending at index 2 that sums to 3. (In this case, it’s the subarray [3] by itself.)
+
+Update count:
+We add 1 to count, so now count = 2.
+
+Add the current prefixSum to the map:
+Now we add prefixSum = 6 to the map. We do map.put(6, map.getOrDefault(6, 0) + 1).
+Now the map is {0:1, 1:1, 3:1, 6:1}.
+
+Index 3, Value -2
+
+Update the prefixSum:
+Previous prefixSum = 6. Add -2, so prefixSum = 6 - 2 = 4.
+
+Calculate the diff:
+diff = prefixSum - k = 4 - 3 = 1.
+
+Check the map for diff:
+We look for map.get(1). In our map {0:1, 1:1, 3:1, 6:1}, map.get(1) = 1.
+
+That means we’ve seen a prefix sum of 1 once before. So there is another subarray ending at index 3 that sums to 3. (That subarray is [2, 3, -2].)
+
+Update count:
+We add 1 to count, so now count = 3.
+
+Add the current prefixSum to the map:
+Add prefixSum = 4 to the map. Now the map is {0:1, 1:1, 3:1, 4:1, 6:1}.
+
+Index 4, Value 5
+
+Update the prefixSum:
+Previous prefixSum = 4. Add 5, so prefixSum = 4 + 5 = 9.
+
+Calculate the diff:
+diff = prefixSum - k = 9 - 3 = 6.
+
+Check the map for diff:
+We look for map.get(6). In our map, map.get(6) = 1.
+
+That means we’ve seen a prefix sum of 6 once before. So there is another subarray ending at index 4 that sums to 3. (This subarray is [-2, 5].)
+
+Update count:
+We add 1 to count, so now count = 4.
+
+Add the current prefixSum to the map:
+Add prefixSum = 9 to the map. The final map is {0:1, 1:1, 3:1, 4:1, 6:1, 9:1}.
+
+Final Count
+
+We found 4 subarrays that sum to 3:
+
+[1, 2]
+
+[3]
+
+[2, 3, -2]
+
+[-2, 5]
+
+So count = 4 at the end.
+//
+import java.util.*;
+class Solution {
+    public int subarraySum(int[] nums, int k) {
+        HashMap<Integer,Integer>map=new HashMap<>();
+        map.put(0,1);//imp step when the diff=0 there already exist an element this is imp step for subarrays
+        int prefixsum=0;
+        int count=0;
+        for(int i=0;i<nums.length;i++){
+            prefixsum+=nums[i];
+
+            int diff=prefixsum-k;
+            if(map.containsKey(diff)){
+                count+=map.get(diff);
+            }
+            map.put(prefixsum,map.getOrDefault(prefixsum,0)+1);//this is adding the prefix sum to the map and its default count
+        }
+        return count;
+    }
+}
