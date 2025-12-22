@@ -27,6 +27,7 @@ Data structures and Algorithms +solved problems
 | [0136-single-number](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -50,6 +51,7 @@ Data structures and Algorithms +solved problems
 | [0128-longest-consecutive-sequence](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -114,4 +116,8 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
