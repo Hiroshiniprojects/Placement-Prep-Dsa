@@ -1,0 +1,39 @@
+//1941. Check if All Characters Have Equal Number of Occurrences
+//date:22.12.25
+//optimal appraoch-using hash map getting the charecters and not strings and integer count
+//normal for loop getting the char by charAt not a string rem: then put() is used to update the value in map getOrDefault() get the value +1 is incrementing and again puting the value back
+//second for loop to iterate the map if the ref count is set as the starting value and that is compared against any value of the map then returned
+//Example 1:
+
+Input: s = "abacbc"
+Output: true
+Explanation: The characters that appear in s are 'a', 'b', and 'c'. All characters occur 2 times in s.
+Example 2:
+
+Input: s = "aaabb"
+Output: false
+Explanation: The characters that appear in s are 'a' and 'b'.
+'a' occurs 3 times while 'b' occurs 2 times, which is not the same number of times.
+//
+import java.util.*;
+class Solution {
+    public boolean areOccurrencesEqual(String s) {
+        HashMap<Character,Integer>map=new HashMap<>();
+        for(int i=0;i<s.length();i++){
+            char ch=s.charAt(i);
+            map.put(ch,map.getOrDefault(ch,0)+1);
+        }
+        int ref=-1;
+        for(Map.Entry<Character,Integer>entry:map.entrySet()){
+            if(ref==-1){
+            ref=entry.getValue();
+            }
+            else{
+                if(entry.getValue()!=ref){
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+}
