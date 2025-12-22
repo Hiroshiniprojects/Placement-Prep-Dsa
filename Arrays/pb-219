@@ -1,0 +1,36 @@
+//date:22.12.25
+//leetcode-pb(219)easy
+contains duplicate II
+//Optimal approach using hashmap checking if the key exist and retrieving the index value-current index val
+
+Intuition
+The main intuition used here is using an hashmap to store the values as the key and index as values which helps us to retrieve the index so that we can achieve the required boolean value true or false
+
+Approach
+when the current index i is subtracted from the stored index which is retrived from the hashmap we use a simple for loop to do this and get the difference if the key exist or else just add the element in the map using put() function do not interchange if and else block if the value is already seen before then compare the current index and retrieved index get the difference and check.return true if some number is greater than k else false.
+
+Complexity
+Time complexity:
+O(n)
+
+Space complexity:
+O(n)
+//
+Code
+import java.util.*;
+class Solution {
+    public boolean containsNearbyDuplicate(int[] nums, int k) {
+        HashMap<Integer,Integer>map=new HashMap<>();
+        int val=0;
+        for(int i=0;i<nums.length;i++){
+            if(map.containsKey(nums[i])){
+                val=i-map.get(nums[i]);
+                 if(val<=k){
+                     return true;
+                 }     
+            }
+           map.put(nums[i],i); 
+        }
+        return false;
+    }
+}
