@@ -57,6 +57,7 @@ Data structures and Algorithms +solved problems
 | [0560-subarray-sum-equals-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0575-distribute-candies) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0014-longest-common-prefix) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Trie
 |  |
 | ------- |
@@ -92,6 +94,7 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0169-majority-element) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
