@@ -1,0 +1,22 @@
+//pb-1512(leecode easy)
+//date:23.12.25
+//optimal approach-when values are equal we need to store the pairs how many times are they repeating we use a hashmap here
+//just a normal for loop if the key exist get the count
+//if the key contains we will take the count
+//else if just put the nums and getordefault is the nums[i],default value+1.increment the values properly
+
+class Solution {
+    public int numIdenticalPairs(int[] nums) {
+    HashMap<Integer,Integer> map=new HashMap<>();
+    int count=0;
+    for(int i=0;i<nums.length;i++){
+        //int count=1;
+        if(map.containsKey(nums[i])){
+            count+=map.get(nums[i]);
+        }
+        map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+    }
+    return count;
+
+    }
+}
