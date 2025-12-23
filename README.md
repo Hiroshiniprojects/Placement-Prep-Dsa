@@ -9,6 +9,7 @@ Data structures and Algorithms +solved problems
 | [0009-palindrome-number](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0009-palindrome-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1492-the-kth-factor-of-n](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1492-the-kth-factor-of-n) |
+| [1512-number-of-good-pairs](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1512-number-of-good-pairs) |
 ## Number Theory
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Data structures and Algorithms +solved problems
 | [0560-subarray-sum-equals-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0575-distribute-candies) |
+| [1512-number-of-good-pairs](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +59,7 @@ Data structures and Algorithms +solved problems
 | [0560-subarray-sum-equals-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0575-distribute-candies) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1512-number-of-good-pairs](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Binary Search
 |  |
@@ -94,6 +97,7 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Dynamic Programming
 |  |
