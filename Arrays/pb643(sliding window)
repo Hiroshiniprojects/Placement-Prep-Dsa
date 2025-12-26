@@ -1,0 +1,22 @@
+//pb:643. Maximum Average Subarray I
+//optimal logic:sliding window when calculatind sum or avg in a fixed window just by moving the or sliding the value
+//O(n)
+//see we are getting the sum of the array
+//the a for loop at the point k till the end there we are updating the sum as current sum as sum-previous slide+nextslide;
+logic sum-prevslide+nextslide
+
+class Solution {
+    public double findMaxAverage(int[] nums, int k) {
+        int n=nums.length;
+        double sum=0;
+        for(int i=0;i<k;i++){
+            sum+=nums[i];
+        }
+        double max=sum;
+        for(int i=k;i<n;i++){
+            sum=sum-nums[i-k]+nums[i];
+            max=Math.max(max,sum);
+        }
+        return max/k;
+    }
+}
