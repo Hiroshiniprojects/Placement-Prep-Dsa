@@ -38,6 +38,7 @@ Data structures and Algorithms +solved problems
 | [0561-array-partition](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1512-number-of-good-pairs](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -130,5 +131,6 @@ Data structures and Algorithms +solved problems
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
