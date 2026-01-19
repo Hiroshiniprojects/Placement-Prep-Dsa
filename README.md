@@ -38,6 +38,7 @@ Data structures and Algorithms +solved problems
 | [0561-array-partition](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1512-number-of-good-pairs](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1512-number-of-good-pairs) |
@@ -70,6 +71,7 @@ Data structures and Algorithms +solved problems
 | ------- |
 | [0035-search-insert-position](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -128,12 +130,14 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
