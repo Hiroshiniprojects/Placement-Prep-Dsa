@@ -7,7 +7,7 @@ class Solution {
                 i++;
             }
         }
-        int index=i+1;
-        return index;
+        int size=i+1;
+        return size;
     }
 }
