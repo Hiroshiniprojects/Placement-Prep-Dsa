@@ -7,6 +7,7 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0268-missing-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1492-the-kth-factor-of-n](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1512-number-of-good-pairs) |
@@ -29,6 +30,7 @@ Data structures and Algorithms +solved problems
 | [0169-majority-element](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -59,6 +61,7 @@ Data structures and Algorithms +solved problems
 | [0169-majority-element](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -70,6 +73,7 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
@@ -79,6 +83,7 @@ Data structures and Algorithms +solved problems
 | [0088-merge-sorted-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0561-array-partition) |
@@ -96,6 +101,7 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
