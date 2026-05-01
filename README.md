@@ -22,6 +22,7 @@ Data structures and Algorithms +solved problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -57,6 +58,7 @@ Data structures and Algorithms +solved problems
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0217-contains-duplicate) |
@@ -148,4 +150,8 @@ Data structures and Algorithms +solved problems
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2090-k-radius-subarray-averages](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/2090-k-radius-subarray-averages) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
