@@ -22,6 +22,7 @@ Data structures and Algorithms +solved problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0088-merge-sorted-array) |
@@ -107,6 +108,7 @@ Data structures and Algorithms +solved problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -117,6 +119,7 @@ Data structures and Algorithms +solved problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
