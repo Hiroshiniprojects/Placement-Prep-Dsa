@@ -41,6 +41,7 @@ Data structures and Algorithms +solved problems
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0561-array-partition) |
@@ -168,8 +169,10 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
