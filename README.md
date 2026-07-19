@@ -40,6 +40,7 @@ Data structures and Algorithms +solved problems
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0561-array-partition) |
@@ -71,6 +72,7 @@ Data structures and Algorithms +solved problems
 | [0268-missing-number](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0575-distribute-candies) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -162,4 +164,12 @@ Data structures and Algorithms +solved problems
 | ------- |
 | [0048-rotate-image](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0073-set-matrix-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
