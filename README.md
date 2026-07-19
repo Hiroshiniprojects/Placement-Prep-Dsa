@@ -175,4 +175,8 @@ Data structures and Algorithms +solved problems
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0503-next-greater-element-ii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
