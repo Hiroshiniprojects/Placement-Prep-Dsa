@@ -168,6 +168,7 @@ Data structures and Algorithms +solved problems
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0503-next-greater-element-ii) |
@@ -190,6 +191,7 @@ Data structures and Algorithms +solved problems
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
@@ -199,10 +201,12 @@ Data structures and Algorithms +solved problems
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
