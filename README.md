@@ -20,6 +20,7 @@ Data structures and Algorithms +solved problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0027-remove-element) |
@@ -55,6 +56,7 @@ Data structures and Algorithms +solved problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0075-sort-colors) |
@@ -131,6 +133,7 @@ Data structures and Algorithms +solved problems
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Hiroshiniprojects/Placement-Prep-Dsa/tree/master/0561-array-partition) |
 ## Counting Sort
 |  |
