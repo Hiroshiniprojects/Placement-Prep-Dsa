@@ -1,18 +1,14 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int profit=0;
-        int min=prices[0];
+        int buy=prices[0];
+        int maxprice=0;
         for(int i=1;i<prices.length;i++){
-            int cost=prices[i]-min;
-            if(cost>profit){
-                profit=cost;
+            if(prices[i]>buy){
+                int profit=prices[i]-buy;
+                maxprice=Math.max(profit,maxprice);
             }
-            //profit=Math.max(cost,profit);
-            if(prices[i]<min){
-                min=prices[i];
-            }
-            //min=Math.min(prices[i],min);
+            buy=Math.min(buy,prices[i]);
         }
-        return profit;
+        return maxprice;
     }
 }
